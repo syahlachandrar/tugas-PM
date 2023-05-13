@@ -1,2 +1,4 @@
 Name : Syahla
+NIM :V3922042
 Address : Surakarta
+Hobi : mencoba hal baru
